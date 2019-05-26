@@ -75,7 +75,11 @@
       padding: 12px 0;
     }
   }
-  
+  .head_logo:hover{
+    height:50px;
+    width:50px;
+        
+}
 
 
 
