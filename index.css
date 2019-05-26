@@ -312,3 +312,21 @@ span{
     padding:1%;
      
   }
+  #h3{
+      text-align: center;
+      color: white;
+      font-size: 40px;
+  }
+#about{
+    background-image: url('https://i.pinimg.com/originals/e9/a4/aa/e9a4aa92f1a37fd3279b123e8739420f.jpg')
+  }
+#portfolio{
+  background-image: url('https://wallpaperaccess.com/full/462860.jpg');
+
+}
+#p1{
+  font-family: 'Varela Round', sans-serif;
+  font-weight: bold;
+  color: white;
+  font-size: 20px;
+}
