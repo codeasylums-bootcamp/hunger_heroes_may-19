@@ -136,6 +136,27 @@ span{
 .right:hover{
     opacity: 0.5;
 }
+.a_link{
+  text-decoration: none;
+  color: white;
+}
+
+.search_btn{
+  height: 50px;
+  /*line-height: 50px;*/
+  width:200px;
+  font-size: 30px;
+  left:41%;
+  position: absolute;
+  top:75%;
+  background-color:lightgrey;
+  color:black;
+  border-radius: 10px;
+  
+  text-align: center;
+  
+
+}
 
 
 
