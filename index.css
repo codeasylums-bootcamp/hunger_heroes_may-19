@@ -27,7 +27,8 @@
   }
   
   #mainNav .navbar-brand {
-    color: white;
+    -webkit-text-stroke: 1px white;
+    color: black;
     font-family: 'Kaushan Script', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
   }
   
@@ -343,7 +344,8 @@ span{
       font-size: 40px;
   }
 #about{
-    background-image: url('https://images.wallpaperscraft.com/image/cream_background_ice_cream_77905_1920x1080.jpg')
+    background-image: url('https://images.unsplash.com/photo-1458387852194-bae1ec83d812?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=789&q=80');
+    color:gray;
   }
 #portfolio{
   background-image: url('https://wallpaperaccess.com/full/462860.jpg');
@@ -351,8 +353,8 @@ span{
 }
 #p1{
   font-family: 'Varela Round', sans-serif;
-  font-weight: bold;
-  color: white;
+  /*font-weight: bold;*/
+  color: yellow;
   font-size: 20px;
 }
 
@@ -375,23 +377,28 @@ span{
 .fa-facebook {
   background: #3B5998;
   color: white;
+  border-radius: 35%;
 }
 
 .fa-twitter {
   background: #55ACEE;
   color: white;
+  border-radius: 35%;
 }
 .fa-linkedin {
   background: #007bb5;
   color: white;
+  border-radius: 35%;
 }
 
 .fa-youtube {
   background: #bb0000;
   color: white;
+  border-radius: 35%;
 }.fa-pinterest {
   background: #cb2027;
   color: white;
+  border-radius: 35%;
 }
 
 /* Create three equal columns that floats next to each other */
@@ -412,3 +419,5 @@ span{
   display: table;
   clear: both;
 }
+
+#
